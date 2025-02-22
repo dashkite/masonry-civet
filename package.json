@@ -1,0 +1,45 @@
+{
+  "name": "@dashkite/masonry-civet",
+  "version": "0.0.0",
+  "description": "Masonry combinators for building Civet source files",
+  "keywords": [],
+  "homepage": "https://github.com/dashkite/masonry-civet#readme",
+  "bugs": {
+    "url": "https://github.com/dashkite/masonry-civet/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashkite/masonry-civet.git"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "contributors": [
+    "Dan Yoder <dan@dashkite.com>",
+    "David Harper <david@dashkite.com>",
+    "Chand Rajendra-Nicolucci <chand@dashkite.com>"
+  ],
+  "exports": {
+    ".": {
+      "node": "./build/node/src/index.js"
+    }
+  },
+  "main": "build/node/src/index.js",
+  "files": [
+    "build/node/src"
+  ],
+  "scripts": {
+    "test": "genie test",
+    "build": "genie build"
+  },
+  "devDependencies": {
+    "@dashkite/amen": "^0.2.0",
+    "@dashkite/amen-console": "^0.0.2",
+    "@dashkite/assert": "^0.1.4",
+    "@dashkite/genie": "link:../genie",
+    "@dashkite/genie-clean": "link:../genie-clean",
+    "@dashkite/genie-coffee": "link:../genie-coffee"
+  },
+  "dependencies": {
+    "@danielx/civet": "^0.9.6",
+    "@swc/core": "^1.10.18"
+  }
+}
