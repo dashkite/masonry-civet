@@ -35,7 +35,7 @@
     "@dashkite/amen": "^0.2.0",
     "@dashkite/amen-console": "^0.0.2",
     "@dashkite/assert": "^0.1.4",
-    "@dashkite/genie": "link:../genie",
+    "@dashkite/genie": "0.9.0",
     "@dashkite/genie-clean": "0.2.0",
     "@dashkite/genie-coffee": "0.2.0",
     "@dashkite/genie-release": "^0.2.3"
