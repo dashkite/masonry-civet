@@ -25,8 +25,8 @@ importers:
         specifier: ^0.3.0
         version: 0.3.0
       '@dashkite/genie':
-        specifier: ^0.20.6
-        version: 0.20.6
+        specifier: ^0.20.7
+        version: 0.20.7
       '@dashkite/genie-clean':
         specifier: ^0.9.0
         version: 0.9.0
@@ -619,8 +619,8 @@ packages:
   '@dashkite/genie-release@0.4.2':
     resolution: {integrity: sha512-h25ymrsMLDfwIQszfA6DzmXwWnW1YpZ5gHypk7lSRdDHXRcmBWwBV8KJoqhh4ti6mCZqggV2TkRCEGYGge+myQ==}
 
-  '@dashkite/genie@0.20.6':
-    resolution: {integrity: sha512-X623qdU3bgTBWPM2nQKrJ1uqNmPGbE3TR6VnrTBE6V7SziV4dNnWTkak9ShiIjltg1mGfNoxkbOXa3DDtynF+g==}
+  '@dashkite/genie@0.20.7':
+    resolution: {integrity: sha512-jbLlY1/1A0UWx1r0z5RJEJIkIkcOvd3CAh1AmKFeZC2ydS0L3p2r388K6X1PrRlJkOa+pJkiupD426HaJXFShg==}
     engines: {node: '>=20.0.0'}
     hasBin: true
 
@@ -2193,7 +2193,7 @@ snapshots:
       '@dashkite/zephyr': 0.12.1
       dax-sh: 0.43.2
 
-  '@dashkite/genie@0.20.6':
+  '@dashkite/genie@0.20.7':
     dependencies:
       '@dashkite/joy': 0.7.0
       '@dashkite/kaiko': 0.3.3
