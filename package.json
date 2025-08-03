@@ -36,13 +36,13 @@
     "@dashkite/amen": "^0.5.0",
     "@dashkite/amen-console": "^0.4.0",
     "@dashkite/assert": "^0.3.0",
-    "@dashkite/genie": "^0.20.4",
+    "@dashkite/genie": "^0.20.6",
     "@dashkite/genie-clean": "^0.9.0",
     "@dashkite/genie-coffee": "^0.9.0",
-    "@dashkite/genie-release": "^0.4.1"
+    "@dashkite/genie-release": "^0.4.2"
   },
   "dependencies": {
-    "@danielx/civet": "^0.9.6",
-    "@swc/core": "^1.10.18"
+    "@danielx/civet": "^0.9.7",
+    "@swc/core": "^1.13.3"
   }
 }
