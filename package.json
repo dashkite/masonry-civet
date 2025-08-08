@@ -1,6 +1,6 @@
 {
   "name": "@dashkite/masonry-civet",
-  "version": "0.12.11",
+  "version": "0.12.12",
   "description": "Masonry combinators for building Civet source files",
   "keywords": [],
   "homepage": "https://github.com/dashkite/masonry-civet#readme",
